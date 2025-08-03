@@ -32,7 +32,7 @@ Github link- (https://github.com/lakshayarora007/amrutam-doctor-portal)
 > ⚠️ Backend was not required and is therefore not implemented.
 
 ---
-
+*FOR running the project there is a simple dummy login screen enter and EmailID and anything is password area and login then full frontend project will be presented.*
 ## 📁 Project Structure
 amrutam-doctor-portal/
 ├── public/ # Public assets
