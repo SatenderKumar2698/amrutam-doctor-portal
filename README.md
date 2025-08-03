@@ -1,12 +1,49 @@
-# React + Vite
+Amrutam Doctor Portal (Frontend Assignment)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the **Doctor Portal frontend** built as part of the Amrutam Frontend Developer assignment. It includes multiple fully responsive pages inspired by the provided Figma design.
 
-Currently, two official plugins are available:
+Github link- (https://github.com/lakshayarora007/amrutam-doctor-portal)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Hosted Version](https://your-live-link.com)
 
-## Expanding the ESLint configuration
+📹 [YouTube Walkthrough](https://youtube.com/your-video)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+- React.js
+- React Router
+- CSS (Global + Custom Modules)
+- Responsive Design
+- SEO-Friendly Structure
+
+## 📄 Pages Implemented (6 Total)
+
+| Page                       | Description |
+|----------------------------|-------------|
+| Hero Section               | Doctor welcome page with mobile mockups and CTA |
+| Doctor Features            | Tabs with phone image illustrations and feature highlights |
+| App Download Section       | Google Play & App Store CTAs with animated icons |
+| Why Doctors Choose Us      | Visual feature block with tagline |
+| Let’s Connect Section      | Form with Name, Contact, Email, Message + Image |
+| Footer                     | Custom footer image, responsive layout |
+
+> ⚠️ Backend was not required and is therefore not implemented.
+
+---
+
+## 📁 Project Structure
+amrutam-doctor-portal/
+├── public/ # Public assets
+├── src/
+│ ├── assets/ # Images, icons, and visual assets
+│ ├── components/ # Reusable UI components (Navbar, Footer, Hero, etc.)
+│ ├── pages/ # Section-based pages (DoctorFeatures, Connect, WhyDoctors)
+│ ├── styles/
+│ │ └── global.css # Global styles used across components
+│ ├── App.js # App layout and routes
+│ └── index.js # ReactDOM render entry
+├── package.json
+└── README.md
+
