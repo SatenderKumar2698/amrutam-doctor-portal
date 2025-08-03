@@ -510,13 +510,13 @@ max-width: 200px;
 }
 
 .doc3 {
-  top: 140px;
-  right: 60px;
+  top: 120px;
+  left: 500px;
 }
 
 .doc4 {
   bottom: 120px;
-  right: 40px;
+  left: 500px;
 }
 .connect-section {
   background-color: #fff7e2;
