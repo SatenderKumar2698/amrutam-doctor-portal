@@ -4,7 +4,7 @@ This is the **Doctor Portal frontend** built as part of the Amrutam Frontend Dev
 
 Github link- (https://github.com/lakshayarora007/amrutam-doctor-portal)
 
-🔗 [Hosted Version](https://your-live-link.com)
+🔗 [Hosted Version](https://amrutam-doctor-portal.netlify.app/)
 
 📹 [YouTube Walkthrough](https://youtube.com/your-video)
 
