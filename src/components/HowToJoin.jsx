@@ -1,4 +1,3 @@
-// src/components/HowToJoin.jsx
 import React from 'react';
 
 export default function HowToJoin() {

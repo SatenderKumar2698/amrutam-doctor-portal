@@ -1,5 +1,5 @@
 import React from 'react';
-import footerImg from '../assets/footer.png';
+import footerImg from '../assets/Footer.png';
 import "../styles/global.css"
 
 const FooterImage = () => {
