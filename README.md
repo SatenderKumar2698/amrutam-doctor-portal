@@ -6,7 +6,7 @@ Github link- (https://github.com/lakshayarora007/amrutam-doctor-portal)
 
 🔗 [Hosted Version](https://amrutam-doctor-portal.netlify.app/)
 
-📹 [YouTube Walkthrough](https://youtube.com/your-video)
+📹 [YouTube Walkthrough](https://youtu.be/WGMC4THUHD4)
 
 ---
 
