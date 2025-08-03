@@ -1,5 +1,4 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
 import DoctorIntroPage from './pages/DoctorIntroPage';
 import DoctorFeaturesPage from './pages/DoctorFeaturesPage';
@@ -14,7 +13,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Dashboard />} />
-        <Route path="/login" element={<Login />} />
+        <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/intro" element={<DoctorIntroPage />} />
         <Route path="/why-doctors" element={<WhyDoctorsPage />} />
         <Route path="/features" element={<DoctorFeaturesPage />} />
