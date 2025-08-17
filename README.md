@@ -1,49 +1,91 @@
-Amrutam Doctor Portal (Frontend Assignment)
+# 🩺 Amrutam Doctor Portal (Frontend Assignment)
 
-This is the **Doctor Portal frontend** built as part of the Amrutam Frontend Developer assignment. It includes multiple fully responsive pages inspired by the provided Figma design.
+This project is the **Doctor Portal Frontend** built as part of the **Amrutam Frontend Developer Assignment**.  
+It is a **fully responsive React SPA** inspired by the provided Figma design, featuring multiple pages with a clean UI/UX and smooth navigation.  
 
-Github link- (https://github.com/lakshayarora007/amrutam-doctor-portal)
+---
 
-🔗 [Hosted Version](https://amrutam-doctor-portal.netlify.app/)
-
-📹 [YouTube Walkthrough](https://youtu.be/WGMC4THUHD4)
+## 🔗 Project Links
+- 📂 **GitHub Repository**: [Amrutam Doctor Portal](https://github.com/SatenderKumar2698/amrutam-doctor-portal)  
+- 🌍 **Live Demo**: [View Hosted Project](https://beautiful-croissant-81fa0b.netlify.app)  
 
 ---
 
 ## 🚀 Tech Stack
-
-- React.js
-- React Router
-- CSS (Global + Custom Modules)
-- Responsive Design
-- SEO-Friendly Structure
-
-## 📄 Pages Implemented (6 Total)
-
-| Page                       | Description |
-|----------------------------|-------------|
-| Hero Section               | Doctor welcome page with mobile mockups and CTA |
-| Doctor Features            | Tabs with phone image illustrations and feature highlights |
-| App Download Section       | Google Play & App Store CTAs with animated icons |
-| Why Doctors Choose Us      | Visual feature block with tagline |
-| Let’s Connect Section      | Form with Name, Contact, Email, Message + Image |
-| Footer                     | Custom footer image, responsive layout |
-
-> ⚠️ Backend was not required and is therefore not implemented.
+- ⚛️ **React.js**
+- 🌐 **React Router**
+- 🎨 **CSS (Global + Custom Modules)**
+- 📱 **Responsive Design**
+- 🔍 **SEO-Friendly Structure**
 
 ---
-*FOR running the project there is a simple dummy login screen enter and EmailID and anything is password area and login then full frontend project will be presented.*
+
+## 📄 Pages Implemented (6)
+| Page                      | Description |
+|---------------------------|-------------|
+| **Hero Section**          | Doctor welcome page with mobile mockups and CTA |
+| **Doctor Features**       | Tabs with phone illustrations and feature highlights |
+| **App Download Section**  | Google Play & App Store CTAs with animated icons |
+| **Why Doctors Choose Us** | Visual block with tagline and benefits |
+| **Let’s Connect Section** | Form with Name, Contact, Email, Message + Image |
+| **Footer**                | Custom responsive footer with branding |
+
+---
+
+## 🧑‍💻 How to Run Locally
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/SatenderKumar2698/amrutam-doctor-portal.git
+2. **Navigate to Project**
+    ```bash
+    cd amrutam-doctor-portal
+
+
+3. **Install Dependencies**
+    ```bash
+    npm install
+
+
+4. **Start Development Server**
+    ```bash
+    npm start
+
+## 🔐 Dummy Login Info
+
+For testing, use the login screen:
+
+  - Enter any **Email ID**
+
+  - Enter any **Password**
+
+  - Click **Login** to access the full frontend project 🚀
+
 ## 📁 Project Structure
+
 amrutam-doctor-portal/
-├── public/ # Public assets
+├── public/              # Static assets
 ├── src/
-│ ├── assets/ # Images, icons, and visual assets
-│ ├── components/ # Reusable UI components (Navbar, Footer, Hero, etc.)
-│ ├── pages/ # Section-based pages (DoctorFeatures, Connect, WhyDoctors)
-│ ├── styles/
-│ │ └── global.css # Global styles used across components
-│ ├── App.js # App layout and routes
-│ └── index.js # ReactDOM render entry
+│   ├── assets/          # Images, icons, illustrations
+│   ├── components/      # Reusable UI components (Navbar, Footer, Hero, etc.)
+│   ├── pages/           # Page sections (DoctorFeatures, Connect, WhyDoctors, etc.)
+│   ├── styles/          # Global & modular styles
+│   │   └── global.css
+│   ├── App.js           # Routes & Layout
+│   └── index.js         # Entry point
 ├── package.json
 └── README.md
 
+## ✨ Features
+
+✅ Fully responsive across devices
+✅ Modern & clean UI with CSS styling
+✅ Reusable React components
+✅ SEO-friendly semantic structure
+✅ Hosted live on Netlify
+
+## 📸 Preview
+
+📌 Assignment Info
+
+This project was built as part of the Amrutam Frontend Developer Assignment.
+The goal was to replicate the design in Figma, ensuring responsive layouts and modular code structure.
